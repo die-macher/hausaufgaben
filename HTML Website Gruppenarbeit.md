@@ -17,7 +17,7 @@
 | Emely P.   |                 |
 | Marcel     |                 |
 | Anna S.    | https://github.com/maryy106/HTML-Rezeptbuch |
-| Therese    |[                 ](https://github.com/Therese01/Capybara-HTML/blob/main/capybara.html)|
+| Therese    (https://github.com/Therese01/Capybara-HTML/blob/main/capybara.html)|
 | Leonie     |                 |
 | Giulia     |                 |
 | Emely S.   |                 |
